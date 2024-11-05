@@ -1,5 +1,6 @@
 # Hi, 你好，こんにちは, hallo,　🥳
 My name is Siquan Chen. I am now a mathematics major student in the University of Liverpool(Xi'an-Jiaotong Liverpool University). My following interest is in the astronomy field.
-Find me on
+<br>
+  Find me on:
 - [Linkedln](https://www.linkedin.com/in/siquan-chen-984027274/)
 - [Email](mailto:chensteve16@gmail.com)
